@@ -1,0 +1,58 @@
+.boton1 {
+    position: absolute;
+    left: 500px;
+    bottom: 450px;
+    width: 130px;
+    height: 60px;
+    background-color: rgb(167, 124, 93);
+}
+.body{
+    background-color: rgb(141, 245, 255);
+}
+.body2{
+    background-color: aqua;
+}
+.boton2{
+    position: absolute;
+    bottom: 325px;
+    left: 500px;
+    width: 130px;
+    height: 70px;
+    background-color: rgb(128, 156, 128);}
+.boton3{
+    position: absolute;
+    bottom: 200px;
+    left: 500px;
+    width: 130px;
+    height: 70px;
+    background-color: rgb(111, 235, 173);
+}
+.boton11 {
+    position: absolute;
+    left: 445px;
+    bottom: 450px;
+    width:  105px;
+    height: 50px;
+}
+.boton22 {
+    position: absolute;
+    left: 650px;
+    bottom: 450px;
+    width:105px;
+    height:50px
+}
+.boton23{
+    position: absolute;
+    left: 300px;
+    bottom: 550px;
+    width: 600px;
+    height: 300;
+}
+.foto {
+    position: absolute;
+    left: 550px;
+    top: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
